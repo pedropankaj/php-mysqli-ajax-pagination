@@ -1,0 +1,1 @@
+# php-mysqli-ajax-pagination
